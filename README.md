@@ -1,5 +1,3 @@
-#%% md
-
 # 🧠 K-Nearest Neighbors (KNN) Algorithm
 
 ## ✅ What is KNN?
